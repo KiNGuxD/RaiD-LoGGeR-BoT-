@@ -1,12 +1,12 @@
 {
-  "name": "discord-logger-js",
+  "name": "RAID-LOGGER-BOT.js",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
+  "author": "-' ⚝ 𝑲𝙞𝑵𝑮𝙪 ⃨𝙭𝘿ゞ..ꨄ#3775",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^12.2.0",
